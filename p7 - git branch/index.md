@@ -8,6 +8,8 @@
 
 - `git branch` is a command line tool that is used to create, list, rename, and delete branches in a Git repository.
 
+## Git Branch Example
+
 - To create a new branch in the repository, you can use the following command:
 
 ```bash
