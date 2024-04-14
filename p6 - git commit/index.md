@@ -45,3 +45,15 @@ git add file.txt
 ```bash
 git commit -m "Update file.txt"
 ```
+
+- View the commit history:
+
+```bash
+git log
+```
+
+- Exit git log:
+
+```bash
+q
+```
