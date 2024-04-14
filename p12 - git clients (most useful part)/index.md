@@ -11,3 +11,9 @@
 - [TortoiseGit](https://tortoisegit.org/)
 - [SmartGit](https://www.syntevo.com/smartgit/)
 - [Fork](https://git-fork.com/)
+
+## Why I refer to use [GitHub Desktop Client](https://desktop.github.com/)?
+
+- Totally FREE
+- Easy to install
+- Directly integrate with Github
