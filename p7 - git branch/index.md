@@ -13,3 +13,27 @@
 ```bash
 git branch <branch-name>
 ```
+
+- To list all branches in the repository, you can use the following command:
+
+```bash
+git branch
+```
+
+- To switch to a different branch, you can use the following command:
+
+```bash
+git checkout <branch-name>
+```
+
+- To delete a branch, you can use the following command:
+
+```bash
+git branch -d <branch-name>
+```
+
+- To create a new branch and switch to it in one command, you can use the following command:
+
+```bash
+git checkout -b <branch-name>
+```
