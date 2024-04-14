@@ -42,3 +42,9 @@ git checkout main
 ```bash
 git merge feature
 ```
+
+- View the commit history:
+
+```bash
+git log
+```
